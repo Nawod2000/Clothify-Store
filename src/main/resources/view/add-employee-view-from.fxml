@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+
+
+<AnchorPane prefHeight="700.0" prefWidth="1350.0" style="-fx-background-color: #379e9d;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="edu.icet.controller.AddEmployeeViewFromController">
+   <children>
+      <Label layoutX="551.0" layoutY="37.0" text="Employee Sing Up">
+         <font>
+            <Font name="System Bold" size="29.0" />
+         </font>
+      </Label>
+   </children>
+</AnchorPane>

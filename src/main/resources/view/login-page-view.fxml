@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import com.jfoenix.controls.JFXPasswordField?>
+<?import com.jfoenix.controls.JFXTextField?>
+<?import javafx.scene.Cursor?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.image.Image?>
+<?import javafx.scene.image.ImageView?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.shape.Line?>
+<?import javafx.scene.text.Font?>
+
+<AnchorPane prefHeight="700.0" prefWidth="1350.0" style="-fx-background-color: #379e9d;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="edu.icet.controller.LoginPageViewController">
+   <children>
+      <ImageView fitHeight="504.0" fitWidth="528.0" layoutX="107.0" layoutY="99.0" pickOnBounds="true" preserveRatio="true">
+         <image>
+            <Image url="@home image.png" />
+         </image>
+      </ImageView>
+      <Line endX="50.00006103515625" endY="-250.0" layoutX="674.0" layoutY="286.0" startX="50.00006103515625" startY="372.4000244140625" strokeLineCap="BUTT" strokeLineJoin="ROUND" strokeMiterLimit="20.0" strokeType="OUTSIDE" strokeWidth="3.0">
+         <cursor>
+            <Cursor fx:constant="NW_RESIZE" />
+         </cursor>
+      </Line>
+      <Label layoutX="1013.0" layoutY="133.0" text="Log  in" textAlignment="CENTER" textFill="#966b57">
+         <font>
+            <Font name="System Bold" size="30.0" />
+         </font>
+      </Label>
+      <Label layoutX="874.0" layoutY="232.0" prefHeight="28.0" prefWidth="96.0" text="Email :-" textAlignment="CENTER" textFill="#966b57">
+         <font>
+            <Font name="System Bold" size="19.0" />
+         </font>
+      </Label>
+      <JFXTextField layoutX="872.0" layoutY="271.0" prefHeight="26.0" prefWidth="318.0" style="-fx-background-color: FFFAE6;" />
+      <Label layoutX="874.0" layoutY="334.0" prefHeight="28.0" prefWidth="109.0" text="Password :-" textAlignment="CENTER" textFill="#966b57">
+         <font>
+            <Font name="System Bold" size="19.0" />
+         </font>
+      </Label>
+      <JFXPasswordField layoutX="874.0" layoutY="372.0" prefHeight="26.0" prefWidth="318.0" style="-fx-background-color: FFFAE6;" />
+      <Button layoutX="1076.0" layoutY="407.0" mnemonicParsing="false" style="-fx-background-color: #379e9d;" text="Forgot  Password?" underline="true" />
+      <JFXButton layoutX="830.0" layoutY="500.0" prefHeight="26.0" prefWidth="406.0" style="-fx-background-color: A67B5B;" text="Log in">
+         <font>
+            <Font name="System Bold" size="19.0" />
+         </font>
+      </JFXButton>
+   </children>
+</AnchorPane>
