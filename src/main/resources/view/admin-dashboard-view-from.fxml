@@ -10,7 +10,6 @@
 <?import javafx.scene.shape.Line?>
 <?import javafx.scene.text.Font?>
 
-
 <AnchorPane prefHeight="700.0" prefWidth="1350.0" style="-fx-background-color: #379e9d;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="edu.icet.controller.AdminDashBoardViewFromController">
    <children>
       <Label layoutX="59.0" layoutY="14.0" text="Admin Dash Board">
@@ -53,7 +52,7 @@
             <TableColumn prefWidth="75.0" text="C2" />
          </columns>
       </TableView>
-      <JFXButton layoutX="497.0" layoutY="19.0" prefHeight="37.0" prefWidth="174.0" style="-fx-background-color: A67B5B;" text="Sing Up Employee">
+      <JFXButton layoutX="496.0" layoutY="19.0" prefHeight="37.0" prefWidth="174.0" style="-fx-background-color: A67B5B;" text="Sing Up Employee">
          <font>
             <Font name="System Bold" size="16.0" />
          </font>

@@ -12,7 +12,7 @@ public class Main extends Application {
 
     @Override
     public void start(Stage stage) throws Exception {
-        stage.setScene(new Scene(FXMLLoader.load(getClass().getResource("view/add-employee-view-from.fxml"))));
+        stage.setScene(new Scene(FXMLLoader.load(getClass().getResource("view/opean-page-view-from.fxml"))));
         stage.show();
     }
 }
