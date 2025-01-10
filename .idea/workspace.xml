@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0f060202-8617-4c31-8848-685ba7e33f3d" name="Changes" comment="add employee Commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/bo/BoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/bo/SuperBo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/bo/custom/EmployeeBo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/bo/custom/ProductBo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/bo/custom/SupplierBo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/bo/custom/impl/EmployeeBoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/bo/custom/impl/ProductBoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/bo/custom/impl/SupplierBoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/controller/SceneSwitchController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/controller/admin/EmpManageViewFromController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/controller/admin/ManageProductViewFromController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/controller/admin/SupplierManageViewFromController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/dao/DaoFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/dao/custom/ProductDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/dao/custom/impl/ProductDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/dto/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/dto/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/dto/Supplier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/entity/ProductEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/entity/SupplierEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/util/BoType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/util/DaoType.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/BackGroundimage.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/sing_out.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/usericon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/welcome_image.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/view/admin/Customer-view-tab-form.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/view/admin/Order-view-tab-form.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/view/admin/admin-dashboard-view-form.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/view/admin/admin-welcome-view-form.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/view/admin/emp-manage-view-form.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/view/admin/manage-product-view-form.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/view/admin/product-menu-view-form.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/view/admin/supllier-manage-view-form.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/view/admin/supplier-view-form.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/view/emp/emp-dashboard-view-form.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/view/emp/emp-place-order-view-form.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/view/emp/emp-product-menu-view-form.fxml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/view/emp/emp-welcome-view-form.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/controller/AddEmployeeViewFromController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/controller/AdminDashBoardViewFromController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/controller/AdminDashBoardViewFromController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/controller/LoginPageViewFromController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/controller/LoginPageViewFromController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/controller/OpeanPageViewFromController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/dao/CrudDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/dao/CrudDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/dao/custom/EmployeeDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/dao/custom/EmployeeDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/dao/custom/impl/EmployeeDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/dao/custom/impl/EmployeeDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/entity/EmployeeEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/entity/EmployeeEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/util/HibernateUtill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/util/HibernateUtill.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/view/add-employee-view-from.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/view/admin-dashboard-view-from.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/view/login-page-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/view/login-page-view.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/view/opean-page-view-from.fxml" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="FxmlFile" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
+  <component name="ProjectId" id="2hgVCyjwQy0TRYhLsOQ3wLODl8Q" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Clothify-Store [javafx:run].executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SONARLINT_PRECOMMIT_ANALYSIS&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/ICM 106  New batch/Java FX/Final Project/Clothify-Store/src/main/resources/view/admin&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/ICM 106  New batch/Java FX/Final Project/Clothify-Store/src/main/java/edu/icet/Main.java&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.JavaFX&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\ICM 106  New batch\Java FX\Final Project\Clothify-Store\src\main\resources\view\admin" />
+      <recent name="D:\ICM 106  New batch\Java FX\Final Project\Clothify-Store\src\main\resources\view" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\ICM 106  New batch\Java FX\Final Project\Clothify-Store\src\main\resources\view\admin" />
+      <recent name="D:\ICM 106  New batch\Java FX\Final Project\Clothify-Store\src\main\resources\view\emp" />
+      <recent name="D:\ICM 106  New batch\Java FX\Final Project\Clothify-Store\src\main\resources\img" />
+      <recent name="D:\ICM 106  New batch\Java FX\Final Project\Clothify-Store\src\main\resources\view" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="edu.icet.entity" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Clothify-Store [javafx:run]" type="MavenRunConfiguration" factoryName="Maven" nameIsGenerated="true">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="cmdOptions" />
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="javafx:run" />
+              </list>
+            </option>
+            <option name="multimoduleDir" />
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="projectsCmdOptionValues">
+              <list />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0f060202-8617-4c31-8848-685ba7e33f3d" name="Changes" comment="" />
+      <created>1718015586826</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718015586826</updated>
+    </task>
+    <task id="LOCAL-00001" summary="first Commit">
+      <option name="closed" value="true" />
+      <created>1718015693113</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1718015693113</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Second Commit">
+      <option name="closed" value="true" />
+      <created>1718047089366</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1718047089366</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Addclass Commit">
+      <option name="closed" value="true" />
+      <created>1718047270506</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1718047270506</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Create Controller Commit">
+      <option name="closed" value="true" />
+      <created>1718140419160</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1718140419160</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add employee Commit">
+      <option name="closed" value="true" />
+      <created>1719389268634</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1719389268634</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first Commit" />
+    <MESSAGE value="Second Commit" />
+    <MESSAGE value="Addclass Commit" />
+    <MESSAGE value="Create Controller Commit" />
+    <MESSAGE value="add employee Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="add employee Commit" />
+  </component>
+</project>

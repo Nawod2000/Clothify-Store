@@ -1,0 +1,24 @@
+
+r
+java:S3740""/Provide the parametrized type for this generic.(¤º¡Œ8Ìëêàº2J$a3352ead-1119-417d-ab31-c3d653ddd15c
+r
+java:S3740B"/Provide the parametrized type for this generic.(°ë³ƒ8Ìëêàº2J$e8fe6a6a-08a3-4582-bb0c-27e14f254eef
+r
+java:S3740O"/Provide the parametrized type for this generic.(½·ë’8Ìëêàº2J$72c0ecef-80ff-49f5-b389-09ec4184d8bd
+w
+java:S3740Y"/Provide the parametrized type for this generic.(ÏğÈ½şÿÿÿÿ8Ìëêàº2J$53aaebe0-fb62-4fd5-ad4c-a3b335a368cf
+v
+java:S1874""3Remove this use of "createQuery"; it is deprecated.(¤º¡Œ8êëêàº2J$05516cc5-4918-4f91-b422-2030611e8f59
+{
+java:S18743"3Remove this use of "createQuery"; it is deprecated.(¨ãÔûÿÿÿÿ8ìëêàº2J$d2bfb405-5b81-4b3b-84a5-382983dec440
+t
+java:S16028",Remove useless curly braces around statement(›Äıÿÿÿÿ8ìëêàº2J$bc2e5098-2569-4d7c-8e70-c5162c5dd05e
+Œ
+java:S16128"DReplace this lambda with method reference 'employeeEntityList::add'.(›Äıÿÿÿÿ8íëêàº2J$141fa09d-fb34-4fbe-b00e-e17eb7a135ae
+v
+java:S1874B"3Remove this use of "createQuery"; it is deprecated.(°ë³ƒ8îëêàº2J$949e4b0a-4fca-4bc1-a89d-c1398e2b84b7
+v
+java:S1874O"3Remove this use of "createQuery"; it is deprecated.(½·ë’8ïëêàº2J$7eb3b56f-744b-4320-94c6-3daca4abf2b7
+	java:S100U"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ñ¯Ô8ñëêàº2J$8854a9d5-c7eb-472c-abaa-8a7cbfd51396
+{
+java:S1874Y"3Remove this use of "createQuery"; it is deprecated.(ÏğÈ½şÿÿÿÿ8ñëêàº2J$e0c9e2a6-1e5f-4a00-800a-92efa17abd32
