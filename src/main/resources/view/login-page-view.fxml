@@ -12,7 +12,7 @@
 <?import javafx.scene.shape.Line?>
 <?import javafx.scene.text.Font?>
 
-<AnchorPane prefHeight="700.0" prefWidth="1350.0" style="-fx-background-color: #379e9d;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="edu.icet.controller.LoginPageViewController">
+<AnchorPane fx:id="loginAnchorPane" prefHeight="700.0" prefWidth="1350.0" style="-fx-background-color: #379e9d;" xmlns="http://javafx.com/javafx/21" xmlns:fx="http://javafx.com/fxml/1" fx:controller="edu.icet.controller.LoginPageViewFromController">
    <children>
       <ImageView fitHeight="504.0" fitWidth="528.0" layoutX="107.0" layoutY="99.0" pickOnBounds="true" preserveRatio="true">
          <image>
@@ -34,15 +34,15 @@
             <Font name="System Bold" size="19.0" />
          </font>
       </Label>
-      <JFXTextField layoutX="872.0" layoutY="271.0" prefHeight="26.0" prefWidth="318.0" style="-fx-background-color: FFFAE6;" />
+      <JFXTextField fx:id="loginEmailtxt" layoutX="872.0" layoutY="271.0" prefHeight="26.0" prefWidth="318.0" style="-fx-background-color: FFFAE6;" />
       <Label layoutX="874.0" layoutY="334.0" prefHeight="28.0" prefWidth="109.0" text="Password :-" textAlignment="CENTER" textFill="#966b57">
          <font>
             <Font name="System Bold" size="19.0" />
          </font>
       </Label>
-      <JFXPasswordField layoutX="874.0" layoutY="372.0" prefHeight="26.0" prefWidth="318.0" style="-fx-background-color: FFFAE6;" />
+      <JFXPasswordField fx:id="loginpasswordtxt" layoutX="874.0" layoutY="372.0" prefHeight="26.0" prefWidth="318.0" style="-fx-background-color: FFFAE6;" />
       <Button layoutX="1076.0" layoutY="407.0" mnemonicParsing="false" style="-fx-background-color: #379e9d;" text="Forgot  Password?" underline="true" />
-      <JFXButton layoutX="830.0" layoutY="500.0" prefHeight="26.0" prefWidth="406.0" style="-fx-background-color: A67B5B;" text="Log in">
+      <JFXButton layoutX="830.0" layoutY="500.0" onAction="#loginAction" prefHeight="26.0" prefWidth="406.0" style="-fx-background-color: A67B5B;" text="Log in">
          <font>
             <Font name="System Bold" size="19.0" />
          </font>

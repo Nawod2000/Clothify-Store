@@ -1,5 +1,8 @@
 package edu.icet.util;
 
+import edu.icet.entity.EmployeeEntity;
+import edu.icet.entity.ProductEntity;
+import edu.icet.entity.SupplierEntity;
 import org.hibernate.HibernateException;
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
@@ -16,11 +19,12 @@ public class HibernateUtill {
         StandardServiceRegistry build = new StandardServiceRegistryBuilder().configure("hibernate.cfg.xml").build();
 
         Metadata metadata = new MetadataSources(build)
-
+                .addAnnotatedClass(EmployeeEntity.class)
+                .addAnnotatedClass(ProductEntity.class)
+                .addAnnotatedClass(SupplierEntity.class)
                 .getMetadataBuilder()
                 .applyImplicitNamingStrategy(ImplicitNamingStrategyJpaCompliantImpl.INSTANCE)
                 .build();
-        
 
         return metadata.getSessionFactoryBuilder().build();
     }
