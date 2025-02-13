@@ -1,24 +1,28 @@
 
 r
-java:S3740""/Provide the parametrized type for this generic.(¤º¡Œ8Ìëêàº2J$a3352ead-1119-417d-ab31-c3d653ddd15c
+java:S3740"/Provide the parametrized type for this generic.(ŒºÉ8Ìëêàº2J$92e17471-2cb3-41ef-b680-887502cd92b2
 r
-java:S3740B"/Provide the parametrized type for this generic.(°ë³ƒ8Ìëêàº2J$e8fe6a6a-08a3-4582-bb0c-27e14f254eef
+java:S3740)"/Provide the parametrized type for this generic.(¤º¡Œ8Ìëêàº2J$94214f33-da7c-4b68-b7bf-b206d82f2ca8
 r
-java:S3740O"/Provide the parametrized type for this generic.(½·ë’8Ìëêàº2J$72c0ecef-80ff-49f5-b389-09ec4184d8bd
+java:S3740I"/Provide the parametrized type for this generic.(°ë³ƒ8Ìëêàº2J$b2a6f5ca-f235-4bd3-9afe-7d0b88e29b1e
+r
+java:S3740V"/Provide the parametrized type for this generic.(½·ë’8Ìëêàº2J$628ba045-51c6-44f0-bc91-cca3244e48ae
 w
-java:S3740Y"/Provide the parametrized type for this generic.(ÏğÈ½şÿÿÿÿ8Ìëêàº2J$53aaebe0-fb62-4fd5-ad4c-a3b335a368cf
+java:S3740`"/Provide the parametrized type for this generic.(ÏğÈ½şÿÿÿÿ8«ÃÖÙÏ2J$2a81569b-75c7-4c6b-aff2-204d28d03a59
 v
-java:S1874""3Remove this use of "createQuery"; it is deprecated.(¤º¡Œ8êëêàº2J$05516cc5-4918-4f91-b422-2030611e8f59
+java:S1874"3Remove this use of "createQuery"; it is deprecated.(ŒºÉ8êëêàº2J$33acd249-d8c0-4d3c-b63c-59997bb368db
+v
+java:S1874)"3Remove this use of "createQuery"; it is deprecated.(¤º¡Œ8ìëêàº2J$826050fd-7b47-4de7-94c1-6c1dd20982b9
 {
-java:S18743"3Remove this use of "createQuery"; it is deprecated.(¨ãÔûÿÿÿÿ8ìëêàº2J$d2bfb405-5b81-4b3b-84a5-382983dec440
+java:S1874:"3Remove this use of "createQuery"; it is deprecated.(¨ãÔûÿÿÿÿ8îëêàº2J$d5f102c4-9afe-47e0-a67a-2f71e8673df4
 t
-java:S16028",Remove useless curly braces around statement(›Äıÿÿÿÿ8ìëêàº2J$bc2e5098-2569-4d7c-8e70-c5162c5dd05e
+java:S1602?",Remove useless curly braces around statement(›Äıÿÿÿÿ8ìëêàº2J$57875172-244e-4943-a6ee-1f67f58cc78a
 Œ
-java:S16128"DReplace this lambda with method reference 'employeeEntityList::add'.(›Äıÿÿÿÿ8íëêàº2J$141fa09d-fb34-4fbe-b00e-e17eb7a135ae
+java:S1612?"DReplace this lambda with method reference 'employeeEntityList::add'.(›Äıÿÿÿÿ8íëêàº2J$ffe6ddd1-4025-45ba-822d-2760be45c8fc
 v
-java:S1874B"3Remove this use of "createQuery"; it is deprecated.(°ë³ƒ8îëêàº2J$949e4b0a-4fca-4bc1-a89d-c1398e2b84b7
+java:S1874I"3Remove this use of "createQuery"; it is deprecated.(°ë³ƒ8ïëêàº2J$b4a4b27e-9ccb-4052-bdc8-2dfe6497cea7
 v
-java:S1874O"3Remove this use of "createQuery"; it is deprecated.(½·ë’8ïëêàº2J$7eb3b56f-744b-4320-94c6-3daca4abf2b7
-	java:S100U"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ñ¯Ô8ñëêàº2J$8854a9d5-c7eb-472c-abaa-8a7cbfd51396
+java:S1874V"3Remove this use of "createQuery"; it is deprecated.(½·ë’8ñëêàº2J$3364e740-19d1-4e22-a584-ab2d8705b5f6
+	java:S100\"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(©ñ¯Ô8ñëêàº2J$dee0ca19-c275-46fb-8c1e-194659936fb6
 {
-java:S1874Y"3Remove this use of "createQuery"; it is deprecated.(ÏğÈ½şÿÿÿÿ8ñëêàº2J$e0c9e2a6-1e5f-4a00-800a-92efa17abd32
+java:S1874`"3Remove this use of "createQuery"; it is deprecated.(ÏğÈ½şÿÿÿÿ8ĞÃÖÙÏ2J$50337ff0-0a74-443e-a1ef-3597f01c9bbd

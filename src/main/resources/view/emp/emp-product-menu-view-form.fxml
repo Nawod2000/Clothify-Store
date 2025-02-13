@@ -43,54 +43,6 @@
             <Font name="Serif Bold" size="37.0" />
          </font>
       </Label>
-      <JFXButton layoutX="25.0" layoutY="276.0" prefHeight="39.0" prefWidth="317.0" style="-fx-background-color: c27548;" text="Place oder">
-         <effect>
-            <SepiaTone level="0.06" />
-         </effect>
-         <font>
-            <Font name="Malgun Gothic Bold" size="18.0" />
-         </font>
-      </JFXButton>
-      <JFXButton layoutX="25.0" layoutY="338.0" prefHeight="39.0" prefWidth="317.0" style="-fx-background-color: c27548;" text="Customer Manage">
-         <effect>
-            <SepiaTone level="0.06" />
-         </effect>
-         <font>
-            <Font name="Malgun Gothic Bold" size="18.0" />
-         </font>
-      </JFXButton>
-      <JFXButton layoutX="25.0" layoutY="399.0" prefHeight="39.0" prefWidth="317.0" style="-fx-background-color: c27548;" text="Supllier Manage">
-         <effect>
-            <SepiaTone level="0.06" />
-         </effect>
-         <font>
-            <Font name="Malgun Gothic Bold" size="18.0" />
-         </font>
-      </JFXButton>
-      <JFXButton layoutX="26.0" layoutY="465.0" prefHeight="39.0" prefWidth="317.0" style="-fx-background-color: c27548;" text="Report ">
-         <effect>
-            <SepiaTone level="0.06" />
-         </effect>
-         <font>
-            <Font name="Malgun Gothic Bold" size="18.0" />
-         </font>
-      </JFXButton>
-      <JFXButton layoutX="26.0" layoutY="221.0" prefHeight="39.0" prefWidth="317.0" style="-fx-background-color: c27548;" text="Products Menu">
-         <effect>
-            <SepiaTone level="0.06" />
-         </effect>
-         <font>
-            <Font name="Malgun Gothic Bold" size="18.0" />
-         </font>
-      </JFXButton>
-      <JFXButton layoutX="25.0" layoutY="159.0" prefHeight="39.0" prefWidth="317.0" style="-fx-background-color: c27548;" text="Dashboard">
-         <effect>
-            <SepiaTone level="0.06" />
-         </effect>
-         <font>
-            <Font name="Malgun Gothic Bold" size="18.0" />
-         </font>
-      </JFXButton>
       <ImageView fitHeight="49.0" fitWidth="52.0" layoutX="74.0" layoutY="581.0" pickOnBounds="true" preserveRatio="true">
          <image>
             <Image url="@../../img/sing_out.png" />
@@ -135,5 +87,45 @@
             <Font name="Bodoni MT Bold" size="34.0" />
          </font>
       </Text>
+      <JFXButton layoutX="22.0" layoutY="271.0" onAction="#manageProductOnAction" prefHeight="39.0" prefWidth="317.0" style="-fx-background-color: c27548;" text="Manage products">
+         <effect>
+            <SepiaTone level="0.06" />
+         </effect>
+         <font>
+            <Font name="Malgun Gothic Bold" size="18.0" />
+         </font>
+      </JFXButton>
+      <JFXButton layoutX="23.0" layoutY="393.0" onAction="#reportOnAction" prefHeight="39.0" prefWidth="317.0" style="-fx-background-color: c27548;" text="Report">
+         <effect>
+            <SepiaTone level="0.06" />
+         </effect>
+         <font>
+            <Font name="Malgun Gothic Bold" size="18.0" />
+         </font>
+      </JFXButton>
+      <JFXButton layoutX="22.0" layoutY="210.0" onAction="#manageCustomerOnAction" prefHeight="39.0" prefWidth="317.0" style="-fx-background-color: c27548;" text="Manage Customer">
+         <effect>
+            <SepiaTone level="0.06" />
+         </effect>
+         <font>
+            <Font name="Malgun Gothic Bold" size="18.0" />
+         </font>
+      </JFXButton>
+      <JFXButton layoutX="23.0" layoutY="335.0" onAction="#manageSupplierOnAction" prefHeight="39.0" prefWidth="317.0" style="-fx-background-color: c27548;" text="Manage Supplier">
+         <effect>
+            <SepiaTone level="0.06" />
+         </effect>
+         <font>
+            <Font name="Malgun Gothic Bold" size="18.0" />
+         </font>
+      </JFXButton>
+      <JFXButton layoutX="23.0" layoutY="155.0" onAction="#manageOrderOnAction" prefHeight="39.0" prefWidth="317.0" style="-fx-background-color: c27548;" text="Manage Order">
+         <effect>
+            <SepiaTone level="0.06" />
+         </effect>
+         <font>
+            <Font name="Malgun Gothic Bold" size="18.0" />
+         </font>
+      </JFXButton>
    </children>
 </AnchorPane>

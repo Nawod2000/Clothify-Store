@@ -1,17 +1,19 @@
 
 ¥
-java:S1104"]Make welcomeAnchorPane a static final constant or non-public and provide accessors if needed.(ãµÉÄøÿÿÿÿ8ã«¾şÄ2J$fe792fa2-7f84-4677-b006-774b2c00327b
+java:S1104"]Make welcomeAnchorPane a static final constant or non-public and provide accessors if needed.(ãµÉÄøÿÿÿÿ8ã«¾şÄ2J$32bce48e-e357-4558-9d51-23cdc865d0d7
+Ä
+java:S1186*"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(¾™“ù8ùÿ†ÜÏ2J$42377821-fa59-45bc-882d-8c61bf2ddbbc
 z
-java:S1172"2Remove this unused method parameter "actionEvent".(Ê½äÃıÿÿÿÿ8¿¬¾şÄ2J$562a18b0-5165-4ebd-ba0f-14644a66abe4
+java:S1172"2Remove this unused method parameter "actionEvent".(Ê½äÃıÿÿÿÿ8¿¬¾şÄ2J$65887bf0-63b3-49a1-bdbf-223e09dda629
 z
-java:S1172"2Remove this unused method parameter "actionEvent".(à×çİÿÿÿÿÿ8Á¬¾şÄ2J$7c103ce2-2294-44b3-9e90-4ff05e73eb60
+java:S1172"2Remove this unused method parameter "actionEvent".(à×çİÿÿÿÿÿ8Á¬¾şÄ2J$d1f24eaa-bd0c-46a2-b5c5-2fea5e66b216
 z
-java:S1172"2Remove this unused method parameter "actionEvent".(¤ÿŠŞüÿÿÿÿ8Ã¬¾şÄ2J$1c0c7e0c-775a-4a81-b306-2795d5c29c5f
+java:S1172"2Remove this unused method parameter "actionEvent".(¤ÿŠŞüÿÿÿÿ8Ã¬¾şÄ2J$c1797f80-c0b4-4b71-b022-66de14f2bf94
 z
-java:S1172"2Remove this unused method parameter "actionEvent".(Ÿ·¥ÿÿÿÿÿ8Ä¬¾şÄ2J$abb4f812-6ca4-4a32-a3e5-3b0e68f4bb56
+java:S1172"2Remove this unused method parameter "actionEvent".(Ÿ·¥ÿÿÿÿÿ8Ä¬¾şÄ2J$ad51077f-6891-410f-88b2-2429a2a58ea2
 u
-java:S1172"2Remove this unused method parameter "actionEvent".(ñ«ùŒ8õ¨ÁşÄ2J$78f1d85e-7f52-4577-b122-cdd5aeecf4de
+java:S1172"2Remove this unused method parameter "actionEvent".(ñ«ùŒ8õ¨ÁşÄ2J$54a6ecb8-ab1a-47bf-980f-556188da8c7c
 z
-java:S1172""2Remove this unused method parameter "actionEvent".(”˜÷üÿÿÿÿ8£“ÄşÄ2J$06e4a767-210a-47b6-a47c-9fb311b23d1c
+java:S1172""2Remove this unused method parameter "actionEvent".(”˜÷üÿÿÿÿ8£“ÄşÄ2J$77b8ec28-a9fa-4416-96f4-6930455e1ccc
 u
-java:S1172&"2Remove this unused method parameter "actionEvent".(¬ã‹Æ8ƒĞÇşÄ2J$e500baad-1218-4a02-9e77-e8183f7f00f9
+java:S1172&"2Remove this unused method parameter "actionEvent".(¬ã‹Æ8ƒĞÇşÄ2J$2cc970f0-f697-4510-a725-6362938012c9

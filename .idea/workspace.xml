@@ -4,63 +4,89 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0f060202-8617-4c31-8848-685ba7e33f3d" name="Changes" comment="add employee Commit">
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/bo/BoFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/bo/SuperBo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/bo/custom/EmployeeBo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/bo/custom/ProductBo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/bo/custom/SupplierBo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/bo/custom/impl/EmployeeBoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/bo/custom/impl/ProductBoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/bo/custom/impl/SupplierBoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/controller/SceneSwitchController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/controller/admin/EmpManageViewFromController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/controller/admin/ManageProductViewFromController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/controller/admin/SupplierManageViewFromController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/dao/DaoFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/dao/custom/ProductDao.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/dao/custom/impl/ProductDaoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/dto/Employee.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/dto/Product.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/dto/Supplier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/entity/ProductEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/entity/SupplierEntity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/util/BoType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/util/DaoType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/BackGroundimage.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/sing_out.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/usericon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/img/welcome_image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/view/admin/Customer-view-tab-form.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/view/admin/Order-view-tab-form.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/view/admin/admin-dashboard-view-form.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/view/admin/admin-welcome-view-form.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/view/admin/emp-manage-view-form.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/view/admin/manage-product-view-form.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/view/admin/product-menu-view-form.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/view/admin/supllier-manage-view-form.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/view/admin/supplier-view-form.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/view/emp/emp-dashboard-view-form.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/view/emp/emp-place-order-view-form.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/view/emp/emp-product-menu-view-form.fxml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/view/emp/emp-welcome-view-form.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/4/442292b8a7efeabbe4cc176709b833b1792140ec" afterDir="false" />
+    <list default="true" id="0f060202-8617-4c31-8848-685ba7e33f3d" name="Changes" comment="supplierController Commit">
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/bo/custom/CustomerBo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/bo/custom/OrderBo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/bo/custom/OrderDetailsBo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/bo/custom/impl/CustomerBoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/bo/custom/impl/OrderBoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/bo/custom/impl/OrderDetailsBoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/controller/EmployeeData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/controller/emp/ManageCustomerViewFromController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/controller/emp/ManageProductViewFromController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/controller/emp/PlaceOrderViewFromController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/dao/custom/CustomerDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/dao/custom/OrderDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/dao/custom/OrderDetailsDao.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/dao/custom/impl/CustomerDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/dao/custom/impl/OrderDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/dao/custom/impl/OrderDetailsDaoImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/dto/CartTable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/dto/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/dto/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/dto/OrderDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/entity/CustomerEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/entity/OrderDetailsEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/edu/icet/entity/OrderEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/img/clot.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/view/emp/add-customer-view-form.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/2/0216ad64a0f1cccb5d4beeb11a1944ee7f991287" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/0/2/0216ad64a0f1cccb5d4beeb11a1944ee7f991287" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/3/9/392016f389adb768a741f08b2a2807f58f358de3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/d/4d6c0bb6e3a991d9559f4be121af808dfaa98b78" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/d/4d6c0bb6e3a991d9559f4be121af808dfaa98b78" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/d/4dbdbbd8b9b02beedb06b491f79b8ed21dfc7c40" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/4/d/4dbdbbd8b9b02beedb06b491f79b8ed21dfc7c40" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/0/50360dc3365ee59f2df2447ea1c8ce57c3418022" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/0/50360dc3365ee59f2df2447ea1c8ce57c3418022" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/4/54d2a3a9682ec278647e0b341ea94f2eb51582d1" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/4/54d2a3a9682ec278647e0b341ea94f2eb51582d1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/a/5a6476f2ea7690319bc3c9df326ca90ccddb12c1" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/a/5a6476f2ea7690319bc3c9df326ca90ccddb12c1" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5eede437b2e63957d9bfb9237e6b37eca71f7107" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/5/e/5eede437b2e63957d9bfb9237e6b37eca71f7107" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/6/765fa16567b1ca44925bc251cebbd88c4bb2a50c" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/7/6/765fa16567b1ca44925bc251cebbd88c4bb2a50c" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/7/87f8287456b85c797b32f9dc5d92313d528380d3" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/8/7/87f8287456b85c797b32f9dc5d92313d528380d3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/9/f/9f11dfdaac99f431d955244267c17bce6ee71523" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a8bbfdda0ffc8715388c6d6bead47a382594d3e7" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/a/8/a8bbfdda0ffc8715388c6d6bead47a382594d3e7" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/4/c4faf741f3ad85f62b5b049ef84b857de643ba1b" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/4/c4faf741f3ad85f62b5b049ef84b857de643ba1b" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c8ca2eaa159bfd3732887e50ffbe1c7b0b22b9d6" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/c/8/c8ca2eaa159bfd3732887e50ffbe1c7b0b22b9d6" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e44a8606ce010ad9b89aafdfcee2ab49afbf6d10" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/4/e44a8606ce010ad9b89aafdfcee2ab49afbf6d10" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/b/ebb20543cb0199c4302c607878f47c65e1eb5bd8" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/b/ebb20543cb0199c4302c607878f47c65e1eb5bd8" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/e/f/ef8a8af12af070284f35abaac81701d5b4e7097c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/f/ffff8c94582298ec4aabd334072595554054fbcc" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/f/f/ffff8c94582298ec4aabd334072595554054fbcc" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/3/9/392016f389adb768a741f08b2a2807f58f358de3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/9/f/9f11dfdaac99f431d955244267c17bce6ee71523" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/e/f/ef8a8af12af070284f35abaac81701d5b4e7097c" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/securityhotspotstore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/controller/AddEmployeeViewFromController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/controller/AdminDashBoardViewFromController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/controller/AdminDashBoardViewFromController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/bo/BoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/bo/BoFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/bo/custom/ProductBo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/bo/custom/ProductBo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/bo/custom/impl/EmployeeBoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/bo/custom/impl/EmployeeBoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/bo/custom/impl/ProductBoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/bo/custom/impl/ProductBoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/bo/custom/impl/SupplierBoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/bo/custom/impl/SupplierBoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/controller/AdminDashBoardViewFromController.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/controller/LoginPageViewFromController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/controller/LoginPageViewFromController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/controller/OpeanPageViewFromController.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/dao/CrudDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/dao/CrudDao.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/dao/custom/EmployeeDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/dao/custom/EmployeeDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/controller/admin/AdminWelcomViewFromController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/controller/admin/AdminWelcomViewFromController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/controller/admin/EmpManageViewFromController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/controller/admin/EmpManageViewFromController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/controller/admin/ManageProductViewFromController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/controller/admin/SupplierManageViewFromController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/controller/emp/SupplierManageViewFromController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/dao/DaoFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/dao/DaoFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/dao/custom/ProductDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/dao/custom/ProductDao.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/dao/custom/impl/EmployeeDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/dao/custom/impl/EmployeeDaoImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/entity/EmployeeEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/entity/EmployeeEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/dao/custom/impl/ProductDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/dao/custom/impl/ProductDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/dao/custom/impl/SupplierDaoImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/dao/custom/impl/SupplierDaoImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/dto/Product.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/dto/Product.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/entity/ProductEntity.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/entity/ProductEntity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/util/BoType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/util/BoType.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/util/DaoType.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/util/DaoType.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/edu/icet/util/HibernateUtill.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/edu/icet/util/HibernateUtill.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/view/add-employee-view-from.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/view/admin-dashboard-view-from.fxml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/view/login-page-view.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/view/login-page-view.fxml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/view/opean-page-view-from.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/view/admin/Customer-view-tab-form.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/view/admin/Customer-view-tab-form.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/view/admin/admin-dashboard-view-form.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/view/admin/login-view-form.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/view/admin/admin-welcome-view-form.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/view/admin/admin-welcome-view-form.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/view/admin/emp-manage-view-form.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/view/admin/emp-manage-view-form.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/view/admin/manage-product-view-form.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/view/emp/product-manage-view-form.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/view/admin/supllier-manage-view-form.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/view/emp/supllier-manage-view-form.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/view/emp/emp-dashboard-view-form.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/view/admin/password-reset-view-form.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/view/emp/emp-place-order-view-form.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/view/emp/place-order-view-form.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/view/emp/emp-product-menu-view-form.fxml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/view/emp/emp-product-menu-view-form.fxml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/view/forgotpassword-view-from.fxml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/view/login-page-view.fxml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -109,11 +135,12 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\ICM 106  New batch\Java FX\Final Project\Clothify-Store\src\main\resources\view\admin" />
       <recent name="D:\ICM 106  New batch\Java FX\Final Project\Clothify-Store\src\main\resources\view" />
+      <recent name="D:\ICM 106  New batch\Java FX\Final Project\Clothify-Store\src\main\resources\view\emp" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\ICM 106  New batch\Java FX\Final Project\Clothify-Store\src\main\resources\view\admin" />
-      <recent name="D:\ICM 106  New batch\Java FX\Final Project\Clothify-Store\src\main\resources\view\emp" />
       <recent name="D:\ICM 106  New batch\Java FX\Final Project\Clothify-Store\src\main\resources\img" />
+      <recent name="D:\ICM 106  New batch\Java FX\Final Project\Clothify-Store\src\main\resources\view\emp" />
+      <recent name="D:\ICM 106  New batch\Java FX\Final Project\Clothify-Store\src\main\resources\view\admin" />
       <recent name="D:\ICM 106  New batch\Java FX\Final Project\Clothify-Store\src\main\resources\view" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -121,6 +148,8 @@
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="edu.icet.entity" />
+      <recent name="edu.icet.dto" />
+      <recent name="edu.icet.controller" />
     </key>
   </component>
   <component name="RunManager">
@@ -204,7 +233,23 @@
       <option name="project" value="LOCAL" />
       <updated>1719389268634</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="switchco and addsupplier Commit">
+      <option name="closed" value="true" />
+      <created>1736509134794</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1736509134794</updated>
+    </task>
+    <task id="LOCAL-00007" summary="supplierController Commit">
+      <option name="closed" value="true" />
+      <created>1736530943998</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1736530943998</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -213,6 +258,8 @@
     <MESSAGE value="Addclass Commit" />
     <MESSAGE value="Create Controller Commit" />
     <MESSAGE value="add employee Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="add employee Commit" />
+    <MESSAGE value="switchco and addsupplier Commit" />
+    <MESSAGE value="supplierController Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="supplierController Commit" />
   </component>
 </project>

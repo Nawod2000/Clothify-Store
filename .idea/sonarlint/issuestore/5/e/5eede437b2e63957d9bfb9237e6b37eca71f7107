@@ -1,10 +1,5 @@
 
 q
-java:S1121".Extract the assignment out of this expression.(Ùûé‘8éØÿÄ2J$aac136d7-90ce-40c9-8d6d-7567917a659c
-
-java:S1301"KReplace this "switch" statement by "if" statements to increase readability.(ÜŸ•8êØÿÄ2J$6738f5e9-9892-4a92-8181-582086a3b891
+java:S1121".Extract the assignment out of this expression.(Ùûé‘8ÜÔİÇÏ2J$d0d11e7b-c24f-4f8c-9573-56485d7bca00
 Ü
-java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(ÄßÜê8îØÿÄ2J$aa0c4ed6-0da1-4882-8246-4788183106ff
-›	java:S131"YComplete cases by adding the missing enum constants or add a default case to this switch.(ÜŸ•8ñØÿÄ2J$7e748619-94d3-47e1-b4d1-59b73e1a1782
-~	java:S125"<This block of commented-out lines of code should be removed.(íĞ¡²8òØÿÄ2J$5b5488f5-4eb7-489f-8c86-dd65cae8a356
-~	java:S125"<This block of commented-out lines of code should be removed.(îÉ“8óØÿÄ2J$076fc716-8eab-446f-9414-1b56e3ec318c
+java:S6548"˜A Singleton implementation was detected. Make sure the use of the Singleton pattern is required and the implementation is the right one for the context.(ÄßÜê8àÔİÇÏ2J$d84e7e3f-5d15-48ad-9a48-3cdb80d5c338

@@ -14,7 +14,14 @@ public class EmployeeDaoImpl implements EmployeeDao {
 
     @Override
     public EmployeeEntity search(String s) {
-        return null;
+        Session session = HibernateUtill.getSession();
+        session.getTransaction().begin();
+
+        Query query = session.createQuery("FROM employee WHERE email=:email");
+        query.setParameter("email",s);
+        EmployeeEntity employeeEntity = (EmployeeEntity) query.uniqueResult();
+        session.close();
+        return employeeEntity;
     }
 
     @Override

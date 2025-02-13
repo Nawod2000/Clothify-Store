@@ -1,3 +1,7 @@
 
-ƒ
-java:S2094"BRemove this empty class, write its code or make it an "interface".(ªè³ñüÿÿÿÿJ$2eece8ac-2dc4-477d-b98e-56168788d83f
+Ä
+java:S1186Q"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(«ÏÊÿ8áùí¢Î2J$3b778b90-a0d8-4545-a839-b6c700fd7ad0
+o
+java:S1602",Remove useless curly braces around statement(§Éé8µéµÅ2J$b7e04b75-56aa-478d-86bc-c542ffdae368
+t
+java:S1602?",Remove useless curly braces around statement(‚éÇ¹úÿÿÿÿ8·éµÅ2J$115167d0-8230-4ddf-b6b7-72b7cb32b786

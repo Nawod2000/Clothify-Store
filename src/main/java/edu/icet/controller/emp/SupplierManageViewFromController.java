@@ -1,4 +1,4 @@
-package edu.icet.controller.admin;
+package edu.icet.controller.emp;
 
 import com.jfoenix.controls.JFXButton;
 import com.jfoenix.controls.JFXTextField;
@@ -64,7 +64,7 @@ public class SupplierManageViewFromController implements Initializable {
     }
 
     public void manageProductsOnAction(ActionEvent actionEvent) throws IOException {
-        switchController.switchScene(empManage, "admin/manage-product-view-form.fxml");
+        switchController.switchScene(empManage, "admin/product-manage-view-form.fxml");
     }
 
     public void ordersViewOnAction(ActionEvent actionEvent) throws IOException {
@@ -225,4 +225,9 @@ public class SupplierManageViewFromController implements Initializable {
     }
 
 
+    public void manageProductOnAction(ActionEvent actionEvent) {
+    }
+
+    public void productMenuOnAction(ActionEvent actionEvent) {
+    }
 }

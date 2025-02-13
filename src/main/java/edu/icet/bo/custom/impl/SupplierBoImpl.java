@@ -61,4 +61,8 @@ public class SupplierBoImpl implements SupplierBo {
     public boolean deleteId(String text) {
         return supplierDaoImpl.delete(text);
     }
+
+    public ObservableList<String> getAllIds(){
+        return supplierDaoImpl.getAllIds();
+    }
 }

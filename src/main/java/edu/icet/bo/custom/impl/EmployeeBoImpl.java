@@ -73,4 +73,13 @@ public class EmployeeBoImpl implements EmployeeBo {
     public boolean delete(String text) {
         return employeeDao.delete(text);
     }
+
+
+    public EmployeeEntity getEmployeeByEmail(String text) {
+        return employeeDao.search(text);
+    }
+
+    public String passwordDecrypt(String password) {
+        return new String(Base64.getDecoder().decode(password));
+    }
 }

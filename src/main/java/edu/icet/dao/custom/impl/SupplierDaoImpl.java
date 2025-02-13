@@ -90,4 +90,19 @@ public class SupplierDaoImpl implements SupplierDao {
         return supplierEntity;
 
     }
+
+    public ObservableList<String> getAllIds() {
+        Session session = HibernateUtill.getSession();
+        session.getTransaction();
+        List<String> list = session.createQuery("SELECT id FROM supplier").list();
+        session.close();
+
+        ObservableList<String> observableList = FXCollections.observableArrayList();
+        list.forEach(s -> {
+            observableList.add(s);
+        });
+
+        return observableList;
+
+    }
 }

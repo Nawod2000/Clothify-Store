@@ -1,27 +1,33 @@
 
 q
-java:S3740"/Provide the parametrized type for this generic.(†£ë`8ğÊŠÅ2J$a055a55d-eaeb-4908-9745-c45df3e970c5
+java:S3740"/Provide the parametrized type for this generic.(†£ë`8œğÄôÎ2J$57bf5a77-8448-4844-a6ec-3e5f99fa4157
 w
-java:S3740>"/Provide the parametrized type for this generic.(ó±¤®ÿÿÿÿÿ8ğÊŠÅ2J$6459ebc1-1be2-4d9e-a07d-d1702326d911
+java:S3740>"/Provide the parametrized type for this generic.(ó±¤®ÿÿÿÿÿ8œğÄôÎ2J$5a0a7646-3621-4707-8cf5-cb0b4db39e6a
 r
-java:S3740K"/Provide the parametrized type for this generic.(•­×Å8ğÊŠÅ2J$409d140f-b273-4a90-8b4c-e4f5054d941a
+java:S3740K"/Provide the parametrized type for this generic.(•­×Å8ğÄôÎ2J$40219c2c-d961-4f77-a785-922555ff1e03
 r
-java:S3740V"/Provide the parametrized type for this generic.(—‘ñ‘8ğÊŠÅ2J$747a8273-9b75-4650-8fd6-06e0a341d563
+java:S3740V"/Provide the parametrized type for this generic.(—‘ñ‘8ğÄôÎ2J$dba6a2af-b430-4570-8290-c3c018aa1411
 u
-java:S1874"3Remove this use of "createQuery"; it is deprecated.(†£ë`8‡ËŠÅ2J$c5c5a34a-783b-4e52-b698-baed0d16bf69
+java:S1874"3Remove this use of "createQuery"; it is deprecated.(†£ë`8¹ğÄôÎ2J$9c2c828c-fd78-49fb-ab05-4c623ee4bb11
 ‡
-java:S1854."?Remove this useless assignment to local variable "transaction".(šç¨Ğÿÿÿÿÿ8‰ËŠÅ2J$9126ca8b-fa13-4cd3-a5e9-41d823499575
+java:S1854."?Remove this useless assignment to local variable "transaction".(šç¨Ğÿÿÿÿÿ8»ğÄôÎ2J$65bb89ec-e2cc-4fb7-a1b2-ea6d70087463
 x
-java:S1481."0Remove this unused "transaction" local variable.(šç¨Ğÿÿÿÿÿ8ŠËŠÅ2J$7d92e647-3db8-4712-b69c-f0226ccd2c96
+java:S1481."0Remove this unused "transaction" local variable.(šç¨Ğÿÿÿÿÿ8¼ğÄôÎ2J$3b22bc50-895c-410b-9074-5e2398f6e487
 u
-java:S18740"3Remove this use of "createQuery"; it is deprecated.(Ø©„i8‹ËŠÅ2J$099d121a-8014-4a3f-968d-855f2aa81285
+java:S18740"3Remove this use of "createQuery"; it is deprecated.(Ø©„i8¼ğÄôÎ2J$a6c81dd0-e48b-4224-96dd-80a0dafeb58f
 o
-java:S16024",Remove useless curly braces around statement(ÃºæÇ8ŒËŠÅ2J$a0946eb1-212c-4f4c-aadb-2838e1e344e6
+java:S16024",Remove useless curly braces around statement(ÃºæÇ8½ğÄôÎ2J$22fcbc63-18c6-43a7-ab10-128ffb889f47
 y
-java:S16124"6Replace this lambda with method reference 'list::add'.(ÃºæÇ8ŒËŠÅ2J$92a07154-5627-422a-b575-13080030d928
+java:S16124"6Replace this lambda with method reference 'list::add'.(ÃºæÇ8‚ñÄôÎ2J$db0435a9-026a-44c9-af07-27a0e4f4db01
 {
-java:S1874>"3Remove this use of "createQuery"; it is deprecated.(ó±¤®ÿÿÿÿÿ8ËŠÅ2J$a55c828a-0105-42d2-b394-ef8fa82f0c8a
+java:S1874>"3Remove this use of "createQuery"; it is deprecated.(ó±¤®ÿÿÿÿÿ8ƒñÄôÎ2J$bacb2e9b-fa8a-4001-9d3a-082c04631900
 v
-java:S1874K"3Remove this use of "createQuery"; it is deprecated.(•­×Å8ËŠÅ2J$c1bde4da-594c-4146-9d91-515f2af788e1
+java:S1874K"3Remove this use of "createQuery"; it is deprecated.(•­×Å8…ñÄôÎ2J$aec89929-7bb3-4425-8c52-983d0768dde6
 v
-java:S1874V"3Remove this use of "createQuery"; it is deprecated.(—‘ñ‘8ËŠÅ2J$bfe65ce8-3efb-4732-9fb3-11fbfe3bb188
+java:S1874V"3Remove this use of "createQuery"; it is deprecated.(—‘ñ‘8†ñÄôÎ2J$c60c0ad0-14e2-40aa-940f-49a48ad66207
+v
+java:S1874a"3Remove this use of "createQuery"; it is deprecated.(ˆ ³·8‡ñÄôÎ2J$ec62359c-e091-4789-bafe-46a14e21a4e0
+o
+java:S1602e",Remove useless curly braces around statement(ÇÃ×Ş8‡ñÄôÎ2J$6fca2b5d-8573-4b68-ade6-fc2344bb529b
+ƒ
+java:S1612e"@Replace this lambda with method reference 'observableList::add'.(ÇÃ×Ş8ˆñÄôÎ2J$3eb666d1-1060-4c38-b06c-d1548ad71662

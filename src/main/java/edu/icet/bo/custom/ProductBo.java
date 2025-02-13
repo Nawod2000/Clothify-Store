@@ -1,4 +1,6 @@
 package edu.icet.bo.custom;
 
-public interface ProductBo {
+import edu.icet.bo.SuperBo;
+
+public interface ProductBo extends SuperBo {
 }

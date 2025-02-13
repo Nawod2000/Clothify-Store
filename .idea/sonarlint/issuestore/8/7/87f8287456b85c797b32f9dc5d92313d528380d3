@@ -1,9 +1,9 @@
 
-m
-java:S5869"*Remove duplicates in this character class.(ÀàÍ»8ƒŒŠÅ2J$75d33b81-b1c9-4faf-a6dd-22ef0c909a5e
-m
-java:S5869"*Remove duplicates in this character class.(ÀàÍ»8ƒŒŠÅ2J$eead9603-f383-4d96-b83e-f620b2098629
-
-java:S5998"LRefactor this repetition that can lead to a stack overflow for large inputs.(ÀàÍ»8„ŒŠÅ2J$1fde3e7f-9499-440f-a7ec-3675ba892233
-o
-java:S1602,",Remove useless curly braces around statement(·˜ø8ŒŠÅ2J$c2d190a0-22cb-4874-87a0-548bc7c9e7da
+G
+java:S5869"*Remove duplicates in this character class.(ÀàÍ»8·€ªÎ2
+G
+java:S5869"*Remove duplicates in this character class.(ÀàÍ»8¸€ªÎ2
+i
+java:S5998"LRefactor this repetition that can lead to a stack overflow for large inputs.(ÀàÍ»8¹€ªÎ2
+I
+java:S1602,",Remove useless curly braces around statement(·˜ø8Ø€ªÎ2

@@ -18,9 +18,11 @@ public class ProductEntity {
     @Id
     private String id;
     private String name;
-    private String type;
-    private String size;
-    private String supId;
     private int qty;
-    private Double price;
+    private String category;
+    private String size;
+    @Column(name = "price")
+    private double price;
+    @Column(name = "supId")
+    private String supId;
 }

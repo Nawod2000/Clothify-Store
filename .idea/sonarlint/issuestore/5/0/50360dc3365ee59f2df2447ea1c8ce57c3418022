@@ -1,65 +1,61 @@
 
 r
-java:S3740"/Provide the parametrized type for this generic.(ìñùø8ÿàıàº2J$e0bb1914-f9e7-4574-b3d1-b91887b7effa
+java:S3740"/Provide the parametrized type for this generic.(ìñùø8È˜ÆŠÅ2J$4cf0dbcb-2d88-4e60-8059-486757a94bdd
 w
-java:S3740"/Provide the parametrized type for this generic.(¿ƒÛşÿÿÿÿ8€áıàº2J$457f4f02-5088-4f73-9b03-5f480ea05123
+java:S3740"/Provide the parametrized type for this generic.(¿ƒÛşÿÿÿÿ8È˜ÆŠÅ2J$b1515da7-52f0-4cf3-b8ac-102ca71efa52
 r
-java:S3740"/Provide the parametrized type for this generic.(½˜æ–8€áıàº2J$0a9a8f12-a5ad-43a3-a4d9-ba1d17f701b0
+java:S3740"/Provide the parametrized type for this generic.(½˜æ–8È˜ÆŠÅ2J$b1ecd5d9-c81e-4d7c-89ce-d02817226969
 w
-java:S3740 "/Provide the parametrized type for this generic.(¶†İ“üÿÿÿÿ8€áıàº2J$d9798e3b-aad8-4b4e-a93f-5a7368d89635
+java:S3740 "/Provide the parametrized type for this generic.(¶†İ“üÿÿÿÿ8È˜ÆŠÅ2J$69d6147c-127c-495d-a5ee-e5a760689db4
 w
-java:S3740!"/Provide the parametrized type for this generic.(Õã½«úÿÿÿÿ8€áıàº2J$c9e55006-2f0e-444e-8272-8517146ae9bd
+java:S3740!"/Provide the parametrized type for this generic.(Õã½«úÿÿÿÿ8È˜ÆŠÅ2J$7fd850d5-d7ba-4c5d-a8dc-33b997a15a7d
 œ
-java:S1104"TMake txtEmail a static final constant or non-public and provide accessors if needed.(Ø¦½üÿÿÿÿ8ƒáıàº2J$12f9efe1-3032-40ab-973a-61cbf87f1285
+java:S1104"TMake txtEmail a static final constant or non-public and provide accessors if needed.(Ø¦½üÿÿÿÿ8Ê˜ÆŠÅ2J$9ed1ac69-084d-43f9-9f15-53e40c55a7bf
 ›
-java:S1104"SMake txtName a static final constant or non-public and provide accessors if needed.(¨äİìÿÿÿÿÿ8ƒáıàº2J$6c84f0b2-d2fe-4a5d-8d62-9fab65975596
+java:S1104"SMake txtName a static final constant or non-public and provide accessors if needed.(¨äİìÿÿÿÿÿ8Ê˜ÆŠÅ2J$a3403325-4f35-44a2-9049-352cee0f8e56
 
-java:S1104"VMake txtAddress a static final constant or non-public and provide accessors if needed.(©ûîùıÿÿÿÿ8ƒáıàº2J$c10481d0-e864-466d-aa44-9879dfb87f2e
+java:S1104"VMake txtAddress a static final constant or non-public and provide accessors if needed.(©ûîùıÿÿÿÿ8Ê˜ÆŠÅ2J$869a106f-0c73-4988-ad01-4601c1ecc8da
 –
-java:S1104"SMake lblTime a static final constant or non-public and provide accessors if needed.(¿°×•8ƒáıàº2J$85bd653e-e568-49ad-9d02-7eaff02543c5
+java:S1104"SMake lblTime a static final constant or non-public and provide accessors if needed.(¿°×•8Ê˜ÆŠÅ2J$65c8d3d1-69b5-4679-95b9-b2d25df47801
 ›
-java:S1104"SMake lblDate a static final constant or non-public and provide accessors if needed.(…“À„ÿÿÿÿÿ8ƒáıàº2J$ad849795-5e08-4cfb-92ff-fb4ffc26e41c
+java:S1104"SMake lblDate a static final constant or non-public and provide accessors if needed.(…“À„ÿÿÿÿÿ8Ê˜ÆŠÅ2J$2a2ce79f-1af4-406f-8e34-946005ce0d2d
 Ÿ
-java:S1104"\Make tblEmployeeTable a static final constant or non-public and provide accessors if needed.(ìñùø8ƒáıàº2J$1884b560-2a92-4dba-bd26-2fbf4c5c0942
+java:S1104"\Make tblEmployeeTable a static final constant or non-public and provide accessors if needed.(ìñùø8Ê˜ÆŠÅ2J$3f2b02a0-0af9-42b1-b65c-6758a1b2f1f8
 œ
-java:S1104"TMake colEmpId a static final constant or non-public and provide accessors if needed.(¿ƒÛşÿÿÿÿ8ƒáıàº2J$20fb5eba-aa1e-4156-9f19-b70dd2917dfb
+java:S1104"TMake colEmpId a static final constant or non-public and provide accessors if needed.(¿ƒÛşÿÿÿÿ8Ê˜ÆŠÅ2J$dada7cab-64f6-4989-9a67-a9f194825154
 ™
-java:S1104"VMake colEmpName a static final constant or non-public and provide accessors if needed.(½˜æ–8ƒáıàº2J$6c70767b-0e05-4663-8f99-158e541f1790
+java:S1104"VMake colEmpName a static final constant or non-public and provide accessors if needed.(½˜æ–8Ê˜ÆŠÅ2J$e9be65ec-5b8d-446c-a935-f02f3c9f7c1e
 Ÿ
-java:S1104 "WMake colEmpEmail a static final constant or non-public and provide accessors if needed.(¶†İ“üÿÿÿÿ8ƒáıàº2J$0a34d39c-0d54-44de-8d49-8632960ed27d
+java:S1104 "WMake colEmpEmail a static final constant or non-public and provide accessors if needed.(¶†İ“üÿÿÿÿ8Ê˜ÆŠÅ2J$4389434d-f69e-434a-84c5-b2a96805a899
 ¡
-java:S1104!"YMake colEmpAddress a static final constant or non-public and provide accessors if needed.(Õã½«úÿÿÿÿ8ƒáıàº2J$47b3d571-9278-45f9-b841-5e86370227b2
+java:S1104!"YMake colEmpAddress a static final constant or non-public and provide accessors if needed.(Õã½«úÿÿÿÿ8Ê˜ÆŠÅ2J$bf271782-e1de-445d-b8fa-24f752a8093e
 ™
-java:S1104""QMake txtId a static final constant or non-public and provide accessors if needed.(â…ô‰øÿÿÿÿ8ƒáıàº2J$5aedf4b7-7426-4190-a1da-8f134ccabc0c
+java:S1104""QMake txtId a static final constant or non-public and provide accessors if needed.(â…ô‰øÿÿÿÿ8Ê˜ÆŠÅ2J$3693df62-f70d-450d-9937-9c8cccd84653
 š
-java:S1104#"RMake btnAdd a static final constant or non-public and provide accessors if needed.(şÙâ€ûÿÿÿÿ8ƒáıàº2J$c49f6e97-e764-4ba9-b008-074ab498c950
+java:S1104#"RMake btnAdd a static final constant or non-public and provide accessors if needed.(şÙâ€ûÿÿÿÿ8Ê˜ÆŠÅ2J$512c353a-a65d-4d26-a96a-a0cb6bb4f2f9
 ˜
-java:S1104$"UMake empManage a static final constant or non-public and provide accessors if needed.(çôø¾8ƒáıàº2J$606a4358-716c-4e4d-b72d-6f4e035d04a2
-Ä
-java:S1186G"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(À³É²8¨áıàº2J$e39f1e8e-6476-4b45-a3d8-3aa39833b008
-É
-java:S1186K"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ô²‹§úÿÿÿÿ8¨áıàº2J$a4d857bc-7b34-4103-9070-8ed0fb590d51
-É
-java:S1186N"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(Ö›“‹şÿÿÿÿ8¨áıàº2J$1a89fdb2-0061-44b0-876b-10cc4dc3436d
+java:S1104$"UMake empManage a static final constant or non-public and provide accessors if needed.(çôø¾8Ê˜ÆŠÅ2J$b376581e-e166-4219-aa53-a67f4f58960b
 ‘
-java:S1659*"IDeclare "isEmailValid" and all following declarations on a separate line.(²¡ìµıÿÿÿÿ8ªáıàº2J$87ebd9d8-810e-4164-8707-210d38d3aa16
-ƒ	java:S1257"<This block of commented-out lines of code should be removed.(ô©¢ùÿÿÿÿ8¯áıàº2J$8bc6f002-0342-4453-9877-58c423cb03c4
-u
-java:S1172?"2Remove this unused method parameter "actionEvent".(¾¶¼á8°áıàº2J$53aa729d-e2c1-4255-9da8-57d60e88e4ff
+java:S1659*"IDeclare "isEmailValid" and all following declarations on a separate line.(²¡ìµıÿÿÿÿ8ï˜ÆŠÅ2J$7674accf-4062-452c-945a-71b7d5a05f45
+ƒ	java:S1257"<This block of commented-out lines of code should be removed.(ô©¢ùÿÿÿÿ8ô˜ÆŠÅ2J$3469f49f-e177-437a-b49f-03536b5a3ab1
 z
-java:S1172C"2Remove this unused method parameter "actionEvent".(Ê½äÃıÿÿÿÿ8±áıàº2J$6bbfd3d0-a03c-4ca7-9bc4-3a8f310d74d9
-u
-java:S1172Q"2Remove this unused method parameter "actionEvent".(¾™“ù8²áıàº2J$dddc8f2f-b7fb-4cdf-8bc2-597010abea7e
-`
-java:S2119S"Save and re-use this "Random".(¼İÅf8´áıàº2J$b159a5da-170d-4dc5-b7d5-a97ab0f7ae52
-u
-java:S1172u"2Remove this unused method parameter "actionEvent".(°§¾8¸áıàº2J$17463ec3-ace9-4503-ab35-8f483ebb9b8f
-v
-java:S1172›"2Remove this unused method parameter "actionEvent".(é…é†8»áıàº2J$8b946fc3-aa5d-43c2-828a-7021a419318c
-z
-java:S1172Â"1Remove this unused method parameter "mouseEvent".(ËøÀûÿÿÿÿ8¾áıàº2J$8b3a644a-b597-4e12-a3b9-1fef21185e5b
-r
-java:S1481Ò")Remove this unused "data" local variable.(¼”˜Äÿÿÿÿÿ8Àáıàº2J$e359810e-ceca-48f3-aa72-c4644c235366
+java:S1172>"2Remove this unused method parameter "actionEvent".(Ê½äÃıÿÿÿÿ8õ˜ÆŠÅ2J$00748668-be02-49af-9c4d-8f65b5cf1d6b
 t
-java:S1172Ú"1Remove this unused method parameter "mouseEvent".(ÙÈ£
-8Àáıàº2J$937da549-8f90-4de6-a1c4-3f57b532fe7a
+java:S1172B"2Remove this unused method parameter "actionEvent".(º‹ç.8÷˜ÆŠÅ2J$bcce7d40-c953-426e-8397-b41c5e17d577
+z
+java:S1172F"2Remove this unused method parameter "actionEvent".(Ÿ·¥ÿÿÿÿÿ8‹™ÆŠÅ2J$da237d65-0c6e-4764-84be-5bbcebb926d4
+u
+java:S1172J"2Remove this unused method parameter "actionEvent".(¾™“ù8™ÆŠÅ2J$db1210b6-595d-4501-ba2b-10a84da83daf
+`
+java:S2119L"Save and re-use this "Random".(¼İÅf8‡™ÆŠÅ2J$3dbb1963-3494-47a5-9f0a-af5ee7bdd5c4
+u
+java:S1172n"2Remove this unused method parameter "actionEvent".(°§¾8ÑéÒŠÅ2J$776a069c-ab12-4826-847c-f03e96b2717a
+v
+java:S1172”"2Remove this unused method parameter "actionEvent".(é…é†8ˆ¥ØŠÅ2J$d8c72de0-9dcc-4965-b240-86cb9da49709
+z
+java:S1172»"1Remove this unused method parameter "mouseEvent".(ËøÀûÿÿÿÿ8‘™ÆŠÅ2J$8cb97aab-460b-4da7-b374-b35205cf2ec4
+r
+java:S1481Ë")Remove this unused "data" local variable.(¼”˜Äÿÿÿÿÿ8“™ÆŠÅ2J$b557af4c-a01d-4e3c-bd2d-e2caf9c8ee06
+t
+java:S1172Ó"1Remove this unused method parameter "mouseEvent".(ÙÈ£
+8”™ÆŠÅ2J$c63ddf00-123e-43c5-a7e8-60e6d365a3c4

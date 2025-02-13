@@ -59,23 +59,16 @@ public class EmpManageViewFromController implements Initializable {
 
     }
 
-
-    public void dashBroadOnAction(ActionEvent actionEvent) throws IOException {
-        sceneswitch.switchScene(empManage, "admin/admin-dashboard-view-form.fxml");
-    }
-
     public void manageEmployeeOnAction(ActionEvent actionEvent) throws IOException {
         sceneswitch.switchScene(empManage, "admin/emp-manage-view-form.fxml");
     }
 
-    public void manageProductsOnAction(ActionEvent actionEvent) {
-
+    public void ordersViewOnAction(ActionEvent actionEvent) throws IOException {
+        sceneswitch.switchScene(empManage, "admin/Order-view-tab-form.fxml");
     }
 
-    public void ordersViewOnAction(ActionEvent actionEvent) {
-    }
-
-    public void customerViewOnAction(ActionEvent actionEvent) {
+    public void customerViewOnAction(ActionEvent actionEvent) throws IOException {
+        sceneswitch.switchScene(empManage, "admin/Customer-view-tab-form.fxml");
     }
 
     public void addButtonOnAction(ActionEvent actionEvent) {
@@ -91,7 +84,7 @@ public class EmpManageViewFromController implements Initializable {
                 txtAddress.getText(),
                 txtEmail.getText(),
                 password,
-                "employee"
+                "admin"
         );
        if (!txtName.getText().isEmpty() && !txtAddress.getText().isEmpty() && employeeBo.isValidEmail(txtEmail.getText())){
 

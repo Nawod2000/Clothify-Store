@@ -16,7 +16,7 @@ public class AdminWelcomViewFromController {
     }
 
     public void manageProductOnAction(ActionEvent actionEvent) throws IOException {
-        switchController.switchScene(welcomeAnchorPane, "admin/manage-product-view-form.fxml");
+        switchController.switchScene(welcomeAnchorPane, "admin/product-manage-view-form.fxml");
     }
 
     public void orderViewOnAction(ActionEvent actionEvent) throws IOException {
@@ -37,5 +37,8 @@ public class AdminWelcomViewFromController {
 
     public void dashBordOnAction(ActionEvent actionEvent) throws IOException {
         switchController.switchScene(welcomeAnchorPane, "admin/admin-dashboard-view-form.fxml");
+    }
+
+    public void addButtonOnAction(ActionEvent actionEvent) {
     }
 }
